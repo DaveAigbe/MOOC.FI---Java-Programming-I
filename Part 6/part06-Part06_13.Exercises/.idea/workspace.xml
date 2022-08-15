@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84c11229-da58-40ac-b4c8-6e149f6be692" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CePsAdeEdoXtaLqA3TSyNjXUUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ExerciseManagementTest.ifNotMarkedCompletedIsNotCompleted">
+    <configuration name="ExerciseManagementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Part06_13.Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseManagementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseManagementTest.addedExerciseIsInList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Part06_13.Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseManagementTest" />
+      <option name="METHOD_NAME" value="addedExerciseIsInList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseManagementTest.ifNotMarkedCompletedIsNotCompleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Part06_13.Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseManagementTest" />
+      <option name="METHOD_NAME" value="ifNotMarkedCompletedIsNotCompleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExerciseManagementTest.ifNotMarkedCompletedIsNotCompleted" />
+        <item itemvalue="JUnit.ExerciseManagementTest.addedExerciseIsInList" />
+        <item itemvalue="JUnit.ExerciseManagementTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c11229-da58-40ac-b4c8-6e149f6be692" name="Changes" comment="" />
+      <created>1659160282322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659160282322</updated>
+      <workItem from="1659160285262" duration="51000" />
+      <workItem from="1659173096351" duration="70000" />
+      <workItem from="1659325644327" duration="429000" />
+      <workItem from="1659326501415" duration="110000" />
+      <workItem from="1659688428078" duration="1439000" />
+      <workItem from="1660015027597" duration="31000" />
+      <workItem from="1660205809707" duration="56000" />
+      <workItem from="1660233420916" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
